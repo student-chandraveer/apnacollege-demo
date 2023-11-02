@@ -2,4 +2,4 @@
 this is my first Git repository.
 <br>
 Author - chandraveer (apnacollege).
-About us - Apna college.
+About us - Hi Apna college.
