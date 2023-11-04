@@ -7,3 +7,7 @@ body{
 p{
     font-size:20px;
 }
+p{
+    color:green;
+    text-decoration:underline;
+}
