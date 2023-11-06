@@ -5,6 +5,4 @@ Author - chandraveer (apnacollege).
 <br>
 About us - Hi Apna college.
 <br>
-welcome
-<br> 
-Today is sunday.
+welcome.
